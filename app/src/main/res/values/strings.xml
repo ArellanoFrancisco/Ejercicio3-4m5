@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ejercicio3m5</string>
+    <string name="toolbar">LogoTrivia</string>
+    <string name="text1">Welcome to LogoTrivia, Enter Your Name to start…</string>
+    <string name="hint">Write your name</string>
+    <string name="boton1">start</string>
+    <string name="text2">Hi, %1$s !</string>
+    <string name="img">Logo</string>
+    <string name="text3">What logo does the image belong to?</string>
+    <string name="radio1">Belonging to Facebook. </string>
+    <string name="radio2">Belonging to Twitter.  </string>
+    <string name="radio3">Belonging to Whatsapp. </string>
+    <string name="radio4">Belonging to Instagram.</string>
+    <string name="boton2">Send</string>
+    <string name="respuesta1">Well, you were wrong %1$s, Try again!</string>
+    <string name="respuesta2">Great %1$s, you won!</string>
+    <string name="boton3">Try again</string>
+    <string name="toast">You must write a name</string>
+  </resources>
